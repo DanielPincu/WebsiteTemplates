@@ -114,7 +114,7 @@ blockquote {
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
-	color: #020202;
+	color: blue;
 	background-color: rgb(228, 84, 84);
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
@@ -344,7 +344,8 @@ background-color: #E45454;}
 text-align:center;
 }
 .hero-caption p{
-color: #000;
+
+color: #000;
 }
  .fa-angle-down {
     position: absolute;
